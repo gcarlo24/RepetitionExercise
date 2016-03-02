@@ -3,7 +3,7 @@
 
 body {
   margin: 0;
-  background-color: #65668c;
+  background-color: #bb010a;
 }
 
 header {
@@ -74,6 +74,8 @@ nav a {
   width: 1000px;
   padding: 5px 15px;
   background-color:#b9b4b5;
+  border:1px solid;
+  border-color:#2a3178;
 }
 
 ul{
